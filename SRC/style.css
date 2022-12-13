@@ -84,3 +84,8 @@ ul {
   text-align: right;
   position: relative;
 }
+
+.small {
+  text-align: left;
+  position: relative;
+}
